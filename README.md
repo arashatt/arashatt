@@ -1,4 +1,5 @@
-### 
+
+<div dir="rtl">
 
 ### GNU
 
@@ -7,11 +8,11 @@ GNU
 خوشم میاد و
 documentation
 هاشونو می خونم علی الخصوص اونایی که خیلی دوست داشتم
-[coding standards](https://www.gnu.org/prep/standards/)
-[readline](https://tiswww.case.edu/php/chet/readline/rltop.html)
-[emacs](https://www.gnu.org/software/emacs/manual/html_node/emacs/index.html)
+- [coding standards](https://www.gnu.org/prep/standards/)
+- [readline](https://tiswww.case.edu/php/chet/readline/rltop.html)
+- [emacs](https://www.gnu.org/software/emacs/manual/html_node/emacs/index.html)
 
-###آرزو ها
+### آرزو ها 
 
 امیدوارم روزی بتونم برای دیوایس های مختلف
 driver
@@ -55,3 +56,4 @@ Django
 - فیتزجرالد
   - گتسبی بزرگ(اولین رمان انگلیسی که خوندم)
 - هدایت
+</div>
