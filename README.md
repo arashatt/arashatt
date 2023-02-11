@@ -1,17 +1,19 @@
 
-<div dir="rtl">
+<div dir="rtl" >
 
-### GNU
-
-از پروژه
+<img align="left" style="float: left;" src="https://user-images.githubusercontent.com/55944526/218239954-9f78af7f-2df3-4252-a463-97243699001b.png" border="0" height="" width="200"> 
+ از پروژه
 GNU
 خوشم میاد و
 documentation
 هاشونو می خونم علی الخصوص اونایی که خیلی دوست داشتم
-- [coding standards](https://www.gnu.org/prep/standards/)
+
+- [coding standards](https://www.gnu.org/prep/standards/) 
 - [readline](https://tiswww.case.edu/php/chet/readline/rltop.html)
 - [emacs](https://www.gnu.org/software/emacs/manual/html_node/emacs/index.html)
-
+  
+  <br>
+  
 ### آرزو ها 
 
 امیدوارم روزی بتونم برای دیوایس های مختلف
@@ -42,6 +44,9 @@ Django
 - شبکه های کامپیوتری
 
 ## نویسندگان مورد علاقه و کتاب ها
+  
+<img   src="https://user-images.githubusercontent.com/55944526/218241664-19286155-8d5e-431a-a80a-d79e8f305730.png" border="0" height="" width="30"> 
+  
 - شکسپیر
   - هملت
   - رومئو و جولیت
@@ -66,3 +71,4 @@ Django
 - فرانسیس بیکن
 - دکارت
 </div>
+
