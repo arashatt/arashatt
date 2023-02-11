@@ -33,7 +33,7 @@ driver
 حدود یک هفته ای 
 Laravel
 کار کردم اما بعد از اون 
-[Django](djangoproject.com)
+[djangoproject](https://www.djangoproject.com/)
 جدی تر شروع کردم و همچنان دارم یاد میگیرم.
 ## دانشگاه صنعتی شاهرود
   [صنعتی شاهرود](https://shahroodut.ac.ir/fa/)
